@@ -70,14 +70,9 @@ Komplexný Discord bot obsahujúci:
 
 ## 📊 GitHub Štatistiky
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jakubesko1977&show_icons=true&theme=github_dark" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Jakubesko1977&show_icons=true&theme=github_dark)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakubesko1977&layout=compact&theme=github_dark" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakubesko1977&layout=compact&theme=github_dark)
 ---
 
 ## 🎯 Aktuálne sa venujem
