@@ -68,13 +68,6 @@ Komplexný Discord bot obsahujúci:
 
 ---
 
-## 📊 GitHub Štatistiky
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Jakubesko1977&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakubesko1977&layout=compact&theme=github_dark)
----
-
 ## 🎯 Aktuálne sa venujem
 
 - Vývoju Discord botov
@@ -86,7 +79,7 @@ Komplexný Discord bot obsahujúci:
 
 ## 📫 Kontakt
 
-- Discord: tvoj_discord
+- Discord: ._.notnormalpeople._.
 - GitHub: https://github.com/Jakubesko1977
 
 ---
