@@ -71,11 +71,11 @@ Komplexný Discord bot obsahujúci:
 ## 📊 GitHub Štatistiky
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jakubesko1977&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVOJ_USERNAME&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakubesko1977&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ Komplexný Discord bot obsahujúci:
 ## 📫 Kontakt
 
 - Discord: tvoj_discord
-- GitHub: https://github.com/tvoj_username
+- GitHub: https://github.com/Jakubesko1977
 
 ---
 
