@@ -1,1 +1,101 @@
-# Dev
+<h1 align="center">👋 Ahoj, som Jakub</h1>
+
+<p align="center">
+  Discord Developer • Minecraft Developer • FiveM Developer
+</p>
+
+<p align="center">
+  Venujem sa vývoju Discord botov, Minecraft pluginov a FiveM systémov.
+  Zameriavam sa na automatizáciu, komunitné systémy a vývoj riešení pre herné servery.
+</p>
+
+---
+
+## 🚀 O mne
+
+- 💻 Vývoj Discord botov v Node.js
+- ⚙️ Tvorba Minecraft pluginov
+- 🚓 Vývoj FiveM systémov a skriptov
+- 📚 Neustále sa učím nové technológie
+- 🎯 Zameranie na kvalitný a prehľadný kód
+
+---
+
+## 🛠️ Technológie
+
+### Programovanie
+![JavaScript](https://skillicons.dev/icons?i=js)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Java](https://skillicons.dev/icons?i=java)
+
+### Databázy
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Nástroje
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 📌 Hlavné Projekty
+
+### 🤖 Discord Bot
+Komplexný Discord bot obsahujúci:
+
+- Moderation systém
+- Ticket systém
+- Economy systém
+- Verification systém
+- Logging
+- Automatizácie
+
+### 🚓 FiveM Projekty
+
+- Job systémy
+- Frakčné systémy
+- Admin nástroje
+- Custom skripty
+- Optimalizované riešenia pre RP servery
+
+### ⛏️ Minecraft Projekty
+
+- Custom pluginy
+- Utility systémy
+- Serverové nástroje
+- Automatizácie
+
+---
+
+## 📊 GitHub Štatistiky
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVOJ_USERNAME&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🎯 Aktuálne sa venujem
+
+- Vývoju Discord botov
+- FiveM systémom
+- Minecraft pluginom
+- Rozširovaniu znalostí backend developmentu
+
+---
+
+## 📫 Kontakt
+
+- Discord: tvoj_discord
+- GitHub: https://github.com/tvoj_username
+
+---
+
+<p align="center">
+⭐ Ďakujem za návštevu môjho profilu.
+</p>
