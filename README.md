@@ -27,6 +27,9 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=c++)
+![C#](https://skillicons.dev/icons?i=c#)
 
 ### Databázy
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
