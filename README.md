@@ -79,7 +79,7 @@ Komplexný Discord bot obsahujúci:
 
 ## 📫 Kontakt
 
-- Discord: ._.notnormalpeople._.
+- Discord: notnormalpeople
 - GitHub: https://github.com/Jakubesko1977
 
 ---
